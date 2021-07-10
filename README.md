@@ -1,4 +1,4 @@
-# Color Generator (HTML + CSS + JavaScript)
+# Random Color Generator (HTML + CSS + JavaScript)
 
  This project we'll build will be the color generator, we're going to have a button. As your clicking the button, notice, we'll change the background color of our body, the text and the button, and also will display what
  color we're using. And we'll have two setups, we'll have a simple one, we'll just use specific amount of colors. So it's going to be fixed array with fixed amount of items. And then we'll have the second set of the hex color setup will generate hex colors on the fly. And in this case, we have infinite amount of options. 

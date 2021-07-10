@@ -1,0 +1,16 @@
+main {
+  position: absolute;
+  width: 800px;
+  top: 50%;
+  left: 50%;
+  margin: -100px 0 0 -400px;
+  color: white;
+}
+.container {
+  height: 100px;
+  text-align: center;
+  background-color: black;
+}
+.color{
+    text-transform: capitalize;
+}
